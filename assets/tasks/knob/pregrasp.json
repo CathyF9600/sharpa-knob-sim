@@ -1,0 +1,62 @@
+{
+  "status": "kinematic_only_collision_and_contact_unverified",
+  "joint_positions_rad": {
+    "fr3_joint1": 0.28818548737189736,
+    "fr3_joint2": 0.6545398807225151,
+    "fr3_joint3": -0.13123538727028763,
+    "fr3_joint4": -2.119029725337872,
+    "fr3_joint5": -1.5940385287267087,
+    "fr3_joint6": 1.6533413577189653,
+    "fr3_joint7": -2.851499731504424,
+    "right_thumb_CMC_FE": 0.6097034001481109,
+    "right_thumb_CMC_AA": 0.2624346394768807,
+    "right_thumb_MCP_FE": -0.036506927023425464,
+    "right_thumb_MCP_AA": -0.17266028793653346,
+    "right_thumb_IP": 0.0005668721634212017,
+    "right_index_MCP_FE": 0.9223390932596426,
+    "right_index_MCP_AA": 0.34908999999999996,
+    "right_index_PIP": 0.48298655128150053,
+    "right_index_DIP": 1.0000025000000231e-05,
+    "right_middle_MCP_FE": 1.5707899999999997,
+    "right_middle_MCP_AA": 0.031361626244913995,
+    "right_middle_PIP": 1.0705115112790826,
+    "right_middle_DIP": 1.0000025000000004e-05,
+    "right_ring_MCP_FE": 0.0,
+    "right_ring_MCP_AA": 0.0,
+    "right_ring_PIP": 0.0,
+    "right_ring_DIP": 0.0,
+    "right_pinky_CMC": 0.0,
+    "right_pinky_MCP_FE": 0.0,
+    "right_pinky_MCP_AA": 0.0,
+    "right_pinky_PIP": 0.0,
+    "right_pinky_DIP": 0.0
+  },
+  "fixture_position_m": [
+    0.48,
+    -0.15,
+    0.415
+  ],
+  "target_pad_origins_m": {
+    "thumb": [
+      0.52,
+      -0.15,
+      0.474
+    ],
+    "index": [
+      0.4542884956125384,
+      -0.18064177772475912,
+      0.474
+    ],
+    "middle": [
+      0.45171572875253807,
+      -0.12171572875253808,
+      0.474
+    ]
+  },
+  "pad_origin_errors_m": [
+    0.009907457308767218,
+    0.004761118419001536,
+    0.0074543152202105134
+  ],
+  "note": "15 mm radial clearance is to link origins, not measured skin. Review before physics/printing."
+}

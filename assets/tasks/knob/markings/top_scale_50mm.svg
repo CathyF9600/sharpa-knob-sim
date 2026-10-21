@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50mm" height="50mm" viewBox="0 0 1024 1024">
+<circle cx="512" cy="512" r="512" fill="#173f58"/>
+<line x1="922.0" y1="512.0" x2="1005.0" y2="512.0" stroke="#ffcc00" stroke-width="10"/>
+<text x="842.0" y="512.0" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="78" fill="#ffcc00">0</text>
+<line x1="951.4962509615261" y1="394.2373344783531" x2="988.2014323605107" y2="384.40221076445727" stroke="#ffffff" stroke-width="5"/>
+<line x1="867.0704155516198" y1="307.0" x2="938.9505240657284" y2="265.5" stroke="#ffffff" stroke-width="10"/>
+<line x1="833.7335854398791" y1="190.2664145601209" x2="860.6036431249679" y2="163.3963568750321" stroke="#ffffff" stroke-width="5"/>
+<line x1="717.0" y1="156.92958444838018" x2="758.5" y2="85.04947593427175" stroke="#ffffff" stroke-width="10"/>
+<line x1="629.7626655216469" y1="72.50374903847393" x2="639.5977892355427" y2="35.798567639489306" stroke="#ffffff" stroke-width="5"/>
+<line x1="512.0" y1="102.0" x2="512.0" y2="19.0" stroke="#ffffff" stroke-width="10"/>
+<text x="512.0" y="182.0" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="78" fill="#ffffff">90</text>
+<line x1="394.23733447835303" y1="72.50374903847393" x2="384.4022107644572" y2="35.798567639489306" stroke="#ffffff" stroke-width="5"/>
+<line x1="307.0000000000001" y1="156.92958444838013" x2="265.5000000000001" y2="85.0494759342717" stroke="#ffffff" stroke-width="10"/>
+<line x1="190.2664145601209" y1="190.26641456012084" x2="163.3963568750321" y2="163.39635687503204" stroke="#ffffff" stroke-width="5"/>
+<line x1="156.92958444838013" y1="307.0" x2="85.0494759342717" y2="265.5" stroke="#ffffff" stroke-width="10"/>
+<line x1="72.50374903847398" y1="394.2373344783529" x2="35.79856763948936" y2="384.40221076445715" stroke="#ffffff" stroke-width="5"/>
+<line x1="102.0" y1="511.99999999999994" x2="19.0" y2="511.99999999999994" stroke="#ff7043" stroke-width="10"/>
+<text x="182.0" y="511.99999999999994" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="78" fill="#ff7043">180</text>
+<line x1="72.50374903847393" y1="629.762665521647" x2="35.798567639489306" y2="639.5977892355428" stroke="#ffffff" stroke-width="5"/>
+<line x1="156.92958444838018" y1="717.0" x2="85.04947593427175" y2="758.5" stroke="#ffffff" stroke-width="10"/>
+<line x1="190.26641456012078" y1="833.7335854398791" x2="163.39635687503198" y2="860.6036431249679" stroke="#ffffff" stroke-width="5"/>
+<line x1="306.99999999999983" y1="867.0704155516198" x2="265.4999999999998" y2="938.9505240657281" stroke="#ffffff" stroke-width="10"/>
+<line x1="394.2373344783531" y1="951.4962509615261" x2="384.4022107644573" y2="988.2014323605107" stroke="#ffffff" stroke-width="5"/>
+<line x1="511.99999999999994" y1="922.0" x2="511.9999999999999" y2="1005.0" stroke="#55e0dc" stroke-width="10"/>
+<text x="511.99999999999994" y="842.0" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="78" fill="#55e0dc">270</text>
+<line x1="629.7626655216468" y1="951.4962509615261" x2="639.5977892355425" y2="988.2014323605108" stroke="#ffffff" stroke-width="5"/>
+<line x1="717.0" y1="867.0704155516198" x2="758.5" y2="938.9505240657282" stroke="#ffffff" stroke-width="10"/>
+<line x1="833.7335854398791" y1="833.7335854398792" x2="860.6036431249679" y2="860.603643124968" stroke="#ffffff" stroke-width="5"/>
+<line x1="867.0704155516198" y1="717.0000000000002" x2="938.9505240657281" y2="758.5000000000002" stroke="#ffffff" stroke-width="10"/>
+<line x1="951.4962509615261" y1="629.7626655216469" x2="988.2014323605107" y2="639.5977892355427" stroke="#ffffff" stroke-width="5"/>
+<circle cx="512" cy="512" r="87.04" fill="white" stroke="black" stroke-dasharray="8 8"/>
+</svg>

@@ -1,0 +1,9 @@
+# Standalone PyBullet data generator; tested with Python 3.10 on Linux.
+# Install in a separate venv, not in an Isaac Lab environment.
+numpy==1.21.5
+scipy==1.8.0
+pybullet==3.2.7
+trimesh==4.5.3
+Pillow==9.0.1
+h5py==3.8.0
+matplotlib==3.5.1

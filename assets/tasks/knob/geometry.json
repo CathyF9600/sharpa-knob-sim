@@ -1,0 +1,13 @@
+{
+  "rotor_radius_m": 0.025,
+  "rotor_height_m": 0.02,
+  "bore_radius_m": 0.00425,
+  "flange_radius_m": 0.045,
+  "flange_height_m": 0.008,
+  "pedestal_radius_m": 0.01,
+  "pedestal_height_m": 0.035,
+  "washer_gap_m": 0.001,
+  "bolt_head_af_m": 0.0134,
+  "bolt_head_depth_m": 0.0056,
+  "rotor_mass_kg": 0.04
+}

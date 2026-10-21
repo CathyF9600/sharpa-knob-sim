@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157.07963mm" height="20.0mm" viewBox="0 0 2048 256">
+<rect width="2048" height="256" fill="#173f58"/>
+<path d="M 85.33333333333333 4 V 58 M 85.33333333333333 194 V 252" stroke="#ffcc00" stroke-width="7"/>
+<text x="85.33333333333333" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffcc00">0</text>
+<path d="M 170.66666666666666 4 V 30 M 170.66666666666666 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 256.0 4 V 58 M 256.0 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="256.0" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">30</text>
+<path d="M 341.3333333333333 4 V 30 M 341.3333333333333 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 426.6666666666667 4 V 58 M 426.6666666666667 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="426.6666666666667" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">60</text>
+<path d="M 512.0 4 V 30 M 512.0 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 597.3333333333334 4 V 58 M 597.3333333333334 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="597.3333333333334" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">90</text>
+<path d="M 682.6666666666666 4 V 30 M 682.6666666666666 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 768.0 4 V 58 M 768.0 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="768.0" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">120</text>
+<path d="M 853.3333333333334 4 V 30 M 853.3333333333334 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 938.6666666666666 4 V 58 M 938.6666666666666 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="938.6666666666666" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">150</text>
+<path d="M 1024.0 4 V 30 M 1024.0 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 1109.3333333333333 4 V 58 M 1109.3333333333333 194 V 252" stroke="#ff7043" stroke-width="7"/>
+<text x="1109.3333333333333" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ff7043">180</text>
+<path d="M 1194.6666666666667 4 V 30 M 1194.6666666666667 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 1280.0 4 V 58 M 1280.0 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="1280.0" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">210</text>
+<path d="M 1365.3333333333333 4 V 30 M 1365.3333333333333 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 1450.6666666666667 4 V 58 M 1450.6666666666667 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="1450.6666666666667" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">240</text>
+<path d="M 1536.0 4 V 30 M 1536.0 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 1621.3333333333333 4 V 58 M 1621.3333333333333 194 V 252" stroke="#55e0dc" stroke-width="7"/>
+<text x="1621.3333333333333" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#55e0dc">270</text>
+<path d="M 1706.6666666666667 4 V 30 M 1706.6666666666667 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 1792.0 4 V 58 M 1792.0 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="1792.0" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">300</text>
+<path d="M 1877.3333333333333 4 V 30 M 1877.3333333333333 222 V 252" stroke="#ffffff" stroke-width="3"/>
+<path d="M 1962.6666666666667 4 V 58 M 1962.6666666666667 194 V 252" stroke="#ffffff" stroke-width="7"/>
+<text x="1962.6666666666667" y="128" dominant-baseline="central" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="35" fill="#ffffff">330</text>
+<path d="M 0.0 4 V 30 M 0.0 222 V 252" stroke="#ffffff" stroke-width="3"/>
+</svg>
